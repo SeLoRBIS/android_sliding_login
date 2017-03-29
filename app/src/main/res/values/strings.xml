@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SlidingLogin</string>
+
+    <!-- LOGIN -->
+    <string name="btn_signin">Je me connecte</string>
+    <string name="btn_signup">Je m\'inscris</string>
+    <string-array name="login_titles">
+        <item>Scannez une étiquette</item>
+        <item>Choisissez un vin</item>
+        <item>Proposez un digestif</item>
+    </string-array>
+    <string-array name="login_subtitles">
+        <item>Ajoutez une nouvelle bouteille à votre cave</item>
+        <item>Trouvez votre meilleure bouteille pour votre repas</item>
+        <item>Quel apéritif ou digestif souhaitez-vous?</item>
+    </string-array>
+
+</resources>
